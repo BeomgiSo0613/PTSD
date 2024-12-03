@@ -1,0 +1,10 @@
+
+# 디랙토리
+
+data/
+
+# 파일
+.DS_Store
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
